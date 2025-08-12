@@ -103,5 +103,7 @@ La clase RespuestaConversion fue diseñada inicialmente para mapear respuestas J
 - Registro de historial de conversiones.
 
 # Autor
-
-Desarrollado por Jaime Lira García como ejercicio educativo de Oracle ONE con Alura Latam, para entender el consumo de APIs con Java.
+### Desarrollado por Jaime Lira García como ejercicio educativo de Oracle ONE con Alura Latam, para entender el consumo de APIs con Java.
+---
+### Nota adicional:
+Al revisar el repositorio, noté que estaba dañado, por lo que tuve que rehacer el proyecto y subirlo nuevamente a un nuevo repositorio.
